@@ -107,7 +107,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-# Gráficas adicionales para iteraciones clave mostrando el movimiento de los agentes (centroides)
+# Gráficas para iteraciones clave mostrando el movimiento de los agentes (centroides)
 iterations_to_plot = [10, 20, 40, 60, 85, 100]
 
 for iter_num in iterations_to_plot:
